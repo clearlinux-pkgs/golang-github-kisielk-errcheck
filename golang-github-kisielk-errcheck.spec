@@ -1,6 +1,6 @@
 Name     : golang-github-kisielk-errcheck
 Version  : aa69c6199800e8aeeedf51950f830458e4cb73e3
-Release  : 2
+Release  : 3
 URL      : https://github.com/kisielk/errcheck/archive/aa69c6199800e8aeeedf51950f830458e4cb73e3.tar.gz
 Source0  : https://github.com/kisielk/errcheck/archive/aa69c6199800e8aeeedf51950f830458e4cb73e3.tar.gz
 Summary  : No detailed summary available
